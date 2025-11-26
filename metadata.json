@@ -1,0 +1,7 @@
+{
+  "name": "NutriGenio AI",
+  "description": "Un asistente nutricional inteligente. Analiza calorías mediante fotos, sugiere recetas basadas en ingredientes de tu nevera y crea planes de alimentación personalizados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
